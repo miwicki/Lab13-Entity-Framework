@@ -44,8 +44,8 @@ Your MVC website should contain the following at minimum once completed:
 	3. Configured to use the DBContext service
 	4. Setup for Dependency Injection
 9. appsettings.json file for Database Connection string
-10. Tests. Research. Start Here: [Testing a Controller](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/testing). 
-11. We will continue to build off of this webiste for lab 14. Good Luck...
+10. A database
+11. Tests. Research. Start Here: [Testing a Controller](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/testing). 
 
 
 ## ReadMe
