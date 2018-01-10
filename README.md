@@ -37,7 +37,6 @@ Your MVC website should contain the following at minimum once completed:
 4. View pages for each of the Controller Actions
 5. Data Folder with *One* DbContext file
 6. style.css file located in the `wwwroot` folder
-7. _ViewImports file to enable TagHelpers 
 8. `Startup.cs` should allow the following:
 	1. Routing Template 
 	2. Static Files, and MVC Middleware
